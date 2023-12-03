@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My dream to to become a powerful hacker!
+My dream is to become a powerful hacker!
